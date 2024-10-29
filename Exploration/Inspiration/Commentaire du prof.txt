@@ -1,0 +1,4 @@
+automatiser
+comment changer les parametres pour le modifier
+pour creer un effet sculpture (light)
+
