@@ -1,0 +1,21 @@
+Prendre les données de natalité et en faire des personnages genre sims qui se multiplie dans l'espace
+Vie-maladie(virus?)-mort ?
+
+
+Game of Life : prendre les données de naissance, d'école, d'emplois, de natalité et de mort pour suivre un personnage (1 colonne à la fois)
+Argent ?
+
+Système d'années qui passent
+
+Autonomx pour créer une plateforme de jeu ? ou s'inspirer de la plateforme d'Autonomx
+
+The Game of Life :
+	1. Get an education
+	2. Get a salary
+	3. Continue to University or Get Married
+	4. Get a House
+	4. Adopt a child or a pet
+	5. Chance Cards (Go to University, Have a Family, Adopt, )
+
+ps: Zotero
+Créer mes propres données avec Autonomx? (vie, mort de cellules, dropout, perte d'emploi, etc...)
